@@ -1,7 +1,7 @@
 **Airline Delay Predictor Project**
 
 **Project Overview:**
-The Airline Delay Predictor Project aims to develop a machine learning model that predicts flight delays using historical data. The project enhances decision-making in air travel by providing airlines and passengers with real-time delay predictions. The model's predictions help airlines optimize their schedules, improve customer satisfaction, and reduce operational costs. For passengers, the predictions can inform travel planning and reduce the impact of delays on their schedules.
+The Airline Delay Predictor Project aims to develop a machine-learning model that predicts flight delays using historical data. The project enhances decision-making in air travel by providing airlines and passengers with real-time delay predictions. The model's predictions help airlines optimize their schedules, improve customer satisfaction, and reduce operational costs. For passengers, the predictions can inform travel planning and minimize the impact of delays on their schedules.
 
 **Key Features:**
 1. **Machine Learning Model:** The project develops a predictive model using Scikit-Learn. The model analyzes historical flight data to identify patterns and factors contributing to delays.
